@@ -1,0 +1,111 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>RestAssuredTraining</groupId>
+	<artifactId>RestAssuredTraining</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+
+	<dependencies>
+
+		<!--
+		REST Assured core library
+		Used to automate REST APIs (GET, POST, PUT, DELETE)
+		Provides given(), when(), then() methods
+		-->
+		<dependency>
+			<groupId>io.rest-assured</groupId>
+			<artifactId>rest-assured</artifactId>
+			<version>6.0.0</version>
+			<scope>test</scope>
+		</dependency>
+
+		<!--
+		JSON Path library
+		Used to extract values from JSON responses
+		Helps in response parsing and validations
+		-->
+		<dependency>
+			<groupId>com.jayway.jsonpath</groupId>
+			<artifactId>json-path</artifactId>
+			<version>2.10.0</version>
+		</dependency>
+
+		<!--
+		org.json library
+		Used to create, read, and manipulate JSON objects
+		Helpful for request body creation
+		-->
+		<dependency>
+			<groupId>org.json</groupId>
+			<artifactId>json</artifactId>
+			<version>20251224</version>
+		</dependency>
+
+		<!--
+		Gson library
+		Used to convert Java objects to JSON and JSON to Java objects
+		Commonly used for POJO serialization/deserialization
+		-->
+		<dependency>
+			<groupId>com.google.code.gson</groupId>
+			<artifactId>gson</artifactId>
+			<version>2.13.2</version>
+		</dependency>
+
+		<!--
+		TestNG testing framework
+		Used to execute test cases, manage test flow, and generate reports
+		-->
+		<dependency>
+			<groupId>org.testng</groupId>
+			<artifactId>testng</artifactId>
+			<version>7.11.0</version>
+			<scope>test</scope>
+		</dependency>
+
+		<!--
+		ScribeJava APIs
+		Used for OAuth and authentication-related API handling
+		Mainly useful when APIs require token-based authentication
+		-->
+		<dependency>
+			<groupId>com.github.scribejava</groupId>
+			<artifactId>scribejava-apis</artifactId>
+			<version>8.3.3</version>
+			<scope>runtime</scope>
+		</dependency>
+
+		<!--
+		JSON Schema Validator
+		Used to validate API response JSON against a predefined schema
+		Ensures response structure is correct
+		-->
+		<dependency>
+			<groupId>com.github.java-json-tools</groupId>
+			<artifactId>json-schema-validator</artifactId>
+			<version>2.2.14</version>
+		</dependency>
+		
+		<dependency>
+			<groupId>io.rest-assured</groupId>
+			<artifactId>json-schema-validator</artifactId>
+			<version>5.4.0</version>
+			<scope>test</scope>
+		</dependency>
+		
+		<dependency>
+    <groupId>com.github.javafaker</groupId>
+    <artifactId>javafaker</artifactId>
+    <version>1.0.2</version>
+</dependency>
+
+<dependency>
+  <groupId>org.slf4j</groupId>
+  <artifactId>slf4j-simple</artifactId>
+  <version>2.0.9</version>
+</dependency>
+
+	</dependencies>
+</project>

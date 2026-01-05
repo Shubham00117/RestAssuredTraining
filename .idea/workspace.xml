@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f491223c-f1f8-4425-8e20-9a3853c48417" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/RestAssuredTraining/RestAssuredTraining/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/RestAssuredTraining/RestAssuredTraining/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day1/DiffWaysToCreatePostRequestBody.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day2/HTTPRequests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day2/PojoPostRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day3/CookiesDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day3/HeadersDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day3/LoggingDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day3/PathAndQueryParamters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day4/ParsingJSONResponseData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day5/FileUploadAndDownload.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day5/ParsingXMLResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day6/JSONSchemaValidation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day6/SerilizationDeserilization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day6/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day6/XMLSchemaValidation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day7/Authentications.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day7/FakeLibraryGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day8/CreateUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day8/DeleteUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day8/GetUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day8/UpdateUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/storeJsonSchemaValidation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/xmlSchemaValidation.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="37pwZ9qnmd8DZUcTlQayjaumdjo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "clean-main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/shubham_infinity/Desktop/test1/RestAssuredTraining"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f491223c-f1f8-4425-8e20-9a3853c48417" name="Changes" comment="" />
+      <created>1767613374209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767613374209</updated>
+    </task>
+    <servers />
+  </component>
+</project>
