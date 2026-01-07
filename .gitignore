@@ -1,0 +1,67 @@
+# IDE - Eclipse
+.metadata/
+.classpath
+.project
+.settings/
+bin/
+*.launch
+
+# IDE - IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# IDE - VS Code
+.vscode/
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Secrets and sensitive files
+*.key
+*.pem
+*.p12
+*.jks
+*.keystore
+*.secret
+.env
+.env.local
+*.token
+*secret*
+*password*
+*credential*
+
+# Logs
+*.log
+logs/
+
+# Test output
+test-output/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
